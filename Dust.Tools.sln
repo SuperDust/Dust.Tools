@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dust.Tools", "Dust.Tools\Dust.Tools.csproj", "{4674C832-951D-4981-A00C-7DC2569B6221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4674C832-951D-4981-A00C-7DC2569B6221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4674C832-951D-4981-A00C-7DC2569B6221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4674C832-951D-4981-A00C-7DC2569B6221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4674C832-951D-4981-A00C-7DC2569B6221}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4BECF4F-AC35-4BE6-8F7A-D8666B39B161}
+	EndGlobalSection
+EndGlobal
